@@ -1,37 +1,32 @@
-# 📱 Land Verification System
+# 👋 Hi, I'm Felix Siloma Koonyo
 
-A mobile application developed as a group project at Kabarak University to verify land ownership and records. Built with modern tools and designed for reliability, security, and ease of use.
-
----
-
-## 🚀 Features
-- Secure land record verification
-- User-friendly mobile interface
-- Database integration for reliable data storage
-- Networking support for real-time access
+🎓 **IT Graduate | PSC Intern at University of Nairobi | Aspiring Software Engineer**
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python, Java
-- **Frontend:** HTML, CSS, JavaScript
-- **Mobile Development:** Android Studio
-- **Databases:** MySQL, SQL Server
-- **Tools:** GitHub, VS Code, Windows OS, **Mac OS**
+## 🚀 About Me
+- 💻 Skilled in **Python, Java, HTML, CSS, JavaScript**
+- 🌐 Experienced in **Networking, Databases (MySQL, SQL Server)**
+- 📱 Built mobile apps including:
+  - **Land Verification System** (Group Project, Kabarak University)
+  - **Image Clustering System** (Individual Project)
+- 🛠 Tools: GitHub, VS Code, MS Office, Windows OS, **Mac OS**, Android Studio
+- 🌍 Fluent in **English and Swahili**
 
 ---
 
-## 📂 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/land-verification-system.git
-- 👋 Hi, I’m @felixsiloma
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 📂 Featured Projects
+- [Land Verification System](https://github.com/yourusername/land-verification-system)  
+- [Image Clustering System](https://github.com/yourusername/image-clustering-system)
 
-<!---
-felixsiloma/felixsiloma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📫 Contact Me
+- ✉️ Email: **felixsiloma@gmail.com** | **koonyofelixs@gmail.com**
+- 📞 Phone: [0745724189](tel:0745724189) / [0769979286](tel:0769979286)
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+
+---
+
+⭐️ From [Felix Siloma Koonyo](https://github.com/yourusername)
+
